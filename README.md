@@ -12,13 +12,13 @@ Sources from the workshop slides
 
 ### How AI works and how people use it
 
-- [Google: Introduction to Large Language Models](https://developers.google.com/machine-learning/crash-course/llm)
 - [Andrej Karpathy: The AI experience funnel](https://x.com/karpathy/status/2109361546505966046)
-- [Microsoft and LinkedIn: Work Trend Index 2024](https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part)
+- [Microsoft Ireland: Irish workers and AI study (2026)](https://news.microsoft.com/source/emea/features/almost-half-47-of-irish-workers-say-they-are-considering-new-career-paths-as-ai-shapes-the-future-of-work-microsoft-ireland-study-finds/)
 - [Eurostat: Use of AI in enterprises](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251211-2)
 
 ### Agents in practice
 
+- [Varonis: Reprompt, a one-click data leak in Copilot](https://www.varonis.com/blog/reprompt)
 - [Anthropic: Project Vend](https://www.anthropic.com/research/project-vend-1)
 - [Peter James: Muse runtime export](https://mouse.dev/blog/muse-runtime-export/)
 
