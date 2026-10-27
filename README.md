@@ -1,6 +1,10 @@
 # AI at Work: Beyond the Hype: Exercises
 
-Exercises for the [AI at Work: Beyond the Hype workshop](https://www.eventbrite.nl/e/ai-at-work-beyond-the-hype-workshop-tickets-2003398359423) by [UpLeveled](https://upleveled.io). Each exercise is an issue in this repository
+Exercises for the [AI at Work: Beyond the Hype workshop](https://www.eventbrite.nl/e/ai-at-work-beyond-the-hype-workshop-tickets-2003398359423) by [UpLeveled](https://upleveled.io)
+
+1. [Write a prompt for the Q3 bookings report](https://github.com/upleveled/workshop-exercises-ai-at-work-beyond-the-hype/issues/1)
+2. [Check AI advice for Winter Market invitations](https://github.com/upleveled/workshop-exercises-ai-at-work-beyond-the-hype/issues/2)
+3. [Write a prompt to fix Hours](https://github.com/upleveled/workshop-exercises-ai-at-work-beyond-the-hype/issues/3)
 
 ## Further reading
 
