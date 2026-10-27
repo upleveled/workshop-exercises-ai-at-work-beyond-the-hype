@@ -15,7 +15,6 @@ Sources from the workshop slides
 
 ### Agents in practice
 
-- [Anthropic: Building effective agents](https://www.anthropic.com/research/building-effective-agents)
 - [Anthropic: Project Vend](https://www.anthropic.com/research/project-vend-1)
 - [Peter James: Muse runtime export](https://mouse.dev/blog/muse-runtime-export/)
 
