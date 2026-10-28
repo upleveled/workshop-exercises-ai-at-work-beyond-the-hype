@@ -15,6 +15,8 @@ Sources from the workshop slides
 - [Andrej Karpathy: The AI experience funnel](https://x.com/karpathy/status/2109361546505966046)
 - [Microsoft Ireland: Irish workers and AI study (2026)](https://news.microsoft.com/source/emea/features/almost-half-47-of-irish-workers-say-they-are-considering-new-career-paths-as-ai-shapes-the-future-of-work-microsoft-ireland-study-finds/)
 - [Eurostat: Use of AI in enterprises](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251211-2)
+- [Gallup: AI in the workplace, what separates adopters and holdouts (2026)](https://www.gallup.com/workplace/704252/workplace-separates-adopters-holdouts.aspx)
+- [Google Research: Transformer, a novel neural network architecture for language understanding (2017)](https://research.google/blog/transformer-a-novel-neural-network-architecture-for-language-understanding/)
 
 ### AI slop
 
@@ -22,10 +24,14 @@ Sources from the workshop slides
 - [Harvard Business Review: AI-generated “workslop” is destroying productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
 - [Farnam Street: Slop grenade](https://fs.blog/slop-grenade/)
 - [Mario Zechner on slop grenades](https://x.com/badlogicgames/status/2102082651653800173)
+- [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
+- [Kobak et al.: Delving into LLM-assisted writing in biomedical publications through excess vocabulary](https://arxiv.org/abs/2406.07016)
+- [Claude Code can not stop using the word “load-bearing” (GitHub issue)](https://github.com/anthropics/claude-code/issues/53454)
 
 ### Agents in practice
 
 - [Varonis: Reprompt, a one-click data leak in Copilot](https://www.varonis.com/blog/reprompt)
+- [Anthropic: Claude for Small Business, with the KANE and HireEffect stories](https://claude.com/resources/articles/claude-for-small-business-launches-new-workflows-integrations-and-training-programs)
 - [Anthropic: Project Vend](https://www.anthropic.com/research/project-vend-1)
 - [Peter James: Muse runtime export](https://mouse.dev/blog/muse-runtime-export/)
 
