@@ -16,6 +16,13 @@ Sources from the workshop slides
 - [Microsoft Ireland: Irish workers and AI study (2026)](https://news.microsoft.com/source/emea/features/almost-half-47-of-irish-workers-say-they-are-considering-new-career-paths-as-ai-shapes-the-future-of-work-microsoft-ireland-study-finds/)
 - [Eurostat: Use of AI in enterprises](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251211-2)
 
+### AI slop
+
+- [Merriam-Webster: 2025 Word of the Year, slop](https://www.merriam-webster.com/wordplay/word-of-the-year)
+- [Harvard Business Review: AI-generated “workslop” is destroying productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
+- [Farnam Street: Slop grenade](https://fs.blog/slop-grenade/)
+- [Mario Zechner on slop grenades](https://x.com/badlogicgames/status/2102082651653800173)
+
 ### Agents in practice
 
 - [Varonis: Reprompt, a one-click data leak in Copilot](https://www.varonis.com/blog/reprompt)
